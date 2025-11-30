@@ -2,6 +2,8 @@
 
 <img width="400" height="120" alt="logo_dijkstra" src="https://github.com/user-attachments/assets/93af0db8-34ed-4dfd-b05e-84106ccac185" />  
 
+<img width="2553" height="1079" alt="image" src="https://github.com/user-attachments/assets/a8df6bff-10d7-4491-b956-a8a63ee5c50b" />  
+
 # 🚀 DijkstraGraphApp – Documentación y Código Completo: 
 
 ## 📌 Descripción general:
