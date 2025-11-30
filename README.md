@@ -1,5 +1,7 @@
 # -_dijkstraGraph_app_java :.
 
+<img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/ffe3058e-d3be-49c5-bd6d-fbc1174768a2" />  
+
 <img width="400" height="120" alt="logo_dijkstra" src="https://github.com/user-attachments/assets/93af0db8-34ed-4dfd-b05e-84106ccac185" />  
 
 <img width="2560" height="1080" alt="image" src="https://github.com/user-attachments/assets/d12ebbd7-ffb7-4e17-aac3-1345b763b6ff" />  
