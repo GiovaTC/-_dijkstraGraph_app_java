@@ -328,9 +328,9 @@ public class DijkstraGraphApp extends JFrame {
     // Simple DB helper that implements AutoCloseable
     static class DBHelper implements AutoCloseable {
         // TODO: configure these constants with your Oracle DB info
-        private static final String CONNECTION_URL = "jdbc:oracle:thin:@//localhost:1521/ORCLCDB"; // host:port/service
-        private static final String USER = "YOUR_DB_USER";
-        private static final String PASSWORD = "YOUR_DB_PASSWORD";
+        private static final String CONNECTION_URL = "jdbc:oracle:thin:@//localhost:1521/orcl"; // host:port/service
+        private static final String USER = "system";
+        private static final String PASSWORD = "Tapiero123";
 
         private Connection conn;
 
